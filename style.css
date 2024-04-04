@@ -9,6 +9,8 @@ body {
     align-items: center;
     justify-content: space-around;
     background-color: #1F2937;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .logo {
