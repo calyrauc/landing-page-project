@@ -1,17 +1,21 @@
 body {
     display: flex;
     flex-direction: column;
-    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 
 .header {
     display: flex;
+    align-items: center;
+    justify-content: space-around;
     background-color: #1F2937;
 }
 
 .logo {
+    display: flex;
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: bold;
 }
 
 ul {
